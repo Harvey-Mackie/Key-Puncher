@@ -2,6 +2,14 @@
 
 A minimalist educational game that aims to teach kids/young adults about the impacts of their choices online with a retro twist.
 
+This game can be used in a School environment due to there being different user types with different permissions. Thus creating a Teacher and Student system.
+
+The purpose of having users with different permissions is to ensure that the game can be deployed and maintained without the developer needing to modify the database, as the admins/teachers/authorised users have access to the 'Admin Form' where questions can be added and removed directly from the database.
+
+There are different user permissions are required to prevent unauthorised users (students) from modifying the database.
+
+The system is not at risk of modification threats and the user's permissions are checked on every form.
+
 Game developed using C# Windows Forms 
 <br/>
 <br/>
