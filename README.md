@@ -16,7 +16,8 @@ Game developed using C# Windows Forms
 
 ## Branches
 
-- This ReadMe file is created for the master branch, however applys for the 'Offline' branch. I created the 'Offline' branch to allow for some of the game to be played without having to set up the database, to allow users to test the game. The 'Admin Form' cannot be accessed while in offline mode due to the page requiring a database connection. 
+- This ReadMe file is created for the **master** branch
+- However, also applys for the **'Offline'** branch. I created the 'Offline' branch to allow for some of the game to be played without having to set up the database, to allow users to test the game. The 'Admin Form' cannot be accessed while in offline mode due to the page requiring a database connection. 
 
 ## Requirements
 - Download Tables (Can be found in the Tables.sql file)
