@@ -20,7 +20,7 @@ Game developed using C# Windows Forms
 - However, also applys for the **'Offline'** branch. I created the 'Offline' branch to allow for some of the game to be played without having to set up the database, to allow users to test the game. The 'Admin Form' cannot be accessed while in offline mode due to the page requiring a database connection. 
 
 - **Offline Version**
-- ![offline](https://user-images.githubusercontent.com/38426388/50686684-3e2d6c80-1016-11e9-85c6-d03e592bdc9f.PNG)
+![offline](https://user-images.githubusercontent.com/38426388/50686684-3e2d6c80-1016-11e9-85c6-d03e592bdc9f.PNG)
 
 ## Requirements
 - Download Tables (Can be found in the Tables.sql file)
@@ -45,6 +45,8 @@ Once the Username and Password credentials are entered correctly, click the ‘S
 
 If the account exists then the account will be validated, resulting in the form closing and the Menu form opening. If the Menu form is not opened, then the credentials you entered are not registered.
 
+ ![login](https://user-images.githubusercontent.com/38426388/50686721-65843980-1016-11e9-9c4d-1875a8f9e5d0.PNG)
+
 ---
 
 ## Menu Form
@@ -66,6 +68,7 @@ If the account exists then the account will be validated, resulting in the form 
 
  Score determines the position – the lowest score is the best score. 
 
+![scores](https://user-images.githubusercontent.com/38426388/50686758-8e0c3380-1016-11e9-8c43-59abda20ba56.PNG)
 ---
 ## Game Form
  The form contains three attributes - Reputation, Turn and Virus, they are set to 50, 0, and 50 at the start of every game - each choice selected modifies the attributes values. 
@@ -73,7 +76,7 @@ If the account exists then the account will be validated, resulting in the form 
  The Black rectangle located in the centre of the form and displays questions/events.
 
  The ‘Advice’ button provides the user with appropriate feedback to help answer the question.
-
+ ![game](https://user-images.githubusercontent.com/38426388/50686757-8c427000-1016-11e9-87ef-0244553c7b79.PNG)
  There are two choices for each event, both are located within the buttons at the bottom of the form. Selecting a choice will affect the Reputation and Virus values depending on the choice outcome (correct or incorrect) and increment the turn attribute. 
 
  Selecting an incorrect choice will increase the Virus count and decrease the Reputation count. 
