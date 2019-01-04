@@ -1,0 +1,21 @@
+<gameUsers>
+  <row>
+    <userId>0</userId>
+    <username>hmack001</username>
+    <password>
+nzWUwXw3dggL4VzDwUKY÷w==</password>
+    <admin>false</admin>
+  </row>
+  <row>
+    <userId>1</userId>
+    <username>JMack001</username>
+    <password>KCOm08qMQz1sZBuM73SEGg==</password>
+    <admin>false</admin>
+  </row>
+  <row>
+    <userId>2</userId>
+    <username>Ethan</username>
+    <password>K3It2CuQncKNOaR2wVHSeEUiTD67hOqaUAHzTwXsrBI=</password>
+    <admin>true</admin>
+  </row>
+</gameUsers>

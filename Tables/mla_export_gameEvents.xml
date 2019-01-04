@@ -1,0 +1,170 @@
+<gameEvents>
+  <row>
+    <eventId>0</eventId>
+    <eventText>Which one of the following can protect a computer from the risk of unwanted emails?</eventText>
+    <eventFeedback>Incognito mode does not change how emails are handled</eventFeedback>
+    <choiceOne>Anti-virus software.</choiceOne>
+    <choiceTwo>Incognito mode</choiceTwo>
+    <choiceID>1</choiceID>
+  </row>
+  <row>
+    <eventId>1</eventId>
+    <eventText>Someone at your school asks for your password.</eventText>
+    <eventFeedback>Passwords exist to ensure only you can enter the program</eventFeedback>
+    <choiceOne>Dont give them it</choiceOne>
+    <choiceTwo>Give them it</choiceTwo>
+    <choiceID>1</choiceID>
+  </row>
+  <row>
+    <eventId>2</eventId>
+    <eventText>What username is better?</eventText>
+    <eventFeedback>Usernames should not reveal any clues</eventFeedback>
+    <choiceOne>CharlieHarold01</choiceOne>
+    <choiceTwo>TheOnlineGhost0109</choiceTwo>
+    <choiceID>4</choiceID>
+  </row>
+  <row>
+    <eventId>3</eventId>
+    <eventText>Login to bank at school?</eventText>
+    <eventFeedback>Open internet connections can be dangerous</eventFeedback>
+    <choiceOne>No</choiceOne>
+    <choiceTwo>Yes</choiceTwo>
+    <choiceID>1</choiceID>
+  </row>
+  <row>
+    <eventId>4</eventId>
+    <eventText>Popup *Download New Flash Player* On a games website someone from your school recommended to you</eventText>
+    <eventFeedback>Downloading from unknown websites can be dangerous!</eventFeedback>
+    <choiceOne>Yes</choiceOne>
+    <choiceTwo>No</choiceTwo>
+    <choiceID>2</choiceID>
+  </row>
+  <row>
+    <eventId>5</eventId>
+    <eventText>Would you use online banking while at home, connected to your local router? </eventText>
+    <eventFeedback>Is the connection safe?</eventFeedback>
+    <choiceOne>No, use the school's connection</choiceOne>
+    <choiceTwo>Yes</choiceTwo>
+    <choiceID>2</choiceID>
+  </row>
+  <row>
+    <eventId>6</eventId>
+    <eventText>Email - "Hey bro, can you click this link, I dont use computers ever and I dont know what to do"</eventText>
+    <eventFeedback>Do not click links from people that you do not trust</eventFeedback>
+    <choiceOne>Delete email</choiceOne>
+    <choiceTwo>Open email</choiceTwo>
+    <choiceID>1</choiceID>
+  </row>
+  <row>
+    <eventId>7</eventId>
+    <eventText>What characters should exists in a password</eventText>
+    <eventFeedback>Words that are not guessable are harder to remember/guess.</eventFeedback>
+    <choiceOne>Lowercase and uppercase characters, a number and a special character</choiceOne>
+    <choiceTwo>Capital letter, lowercase, and 5 random numbers</choiceTwo>
+    <choiceID>3</choiceID>
+  </row>
+  <row>
+    <eventId>8</eventId>
+    <eventText>When you are filling out a form/survey online, how do you answer the questions?</eventText>
+    <eventFeedback>Do you trust the website enough to share your personal information</eventFeedback>
+    <choiceOne>Answer all questions truthfully</choiceOne>
+    <choiceTwo>Check with parent/guardian before sharing information online</choiceTwo>
+    <choiceID>4</choiceID>
+  </row>
+  <row>
+    <eventId>9</eventId>
+    <eventText> you get an email from an unknown email address. What do you do?</eventText>
+    <eventFeedback>Are you aware what is attached to the Email?</eventFeedback>
+    <choiceOne>Respond to the email and start a converstation</choiceOne>
+    <choiceTwo>Ignore it, place it in the trash folder</choiceTwo>
+    <choiceID>6</choiceID>
+  </row>
+  <row>
+    <eventId>10</eventId>
+    <eventText>You recieve an email with an attachment that you were not expecting from a friend</eventText>
+    <eventFeedback>Could the attached document harm your computer?</eventFeedback>
+    <choiceOne>Ask your parents if it is okay to open the attachment</choiceOne>
+    <choiceTwo>Open the attachment</choiceTwo>
+    <choiceID>3</choiceID>
+  </row>
+  <row>
+    <eventId>11</eventId>
+    <eventText>Should your online identity/username be able to identify your gender?</eventText>
+    <eventFeedback>Sharing information online can be dangerous </eventFeedback>
+    <choiceOne>No</choiceOne>
+    <choiceTwo>Yes</choiceTwo>
+    <choiceID>1</choiceID>
+  </row>
+  <row>
+    <eventId>12</eventId>
+    <eventText>Would you post personal information of yours or anyone else without their consent </eventText>
+    <eventFeedback>Once an item is uploaded it can not be deleted.</eventFeedback>
+    <choiceOne>Yes</choiceOne>
+    <choiceTwo>No</choiceTwo>
+    <choiceID>2</choiceID>
+  </row>
+  <row>
+    <eventId>13</eventId>
+    <eventText>Would you complete a survey/profile page without your parents guardians</eventText>
+    <eventFeedback>Do you feel safe sharing this information?</eventFeedback>
+    <choiceOne>Yes</choiceOne>
+    <choiceTwo>No</choiceTwo>
+    <choiceID>2</choiceID>
+  </row>
+  <row>
+    <eventId>14</eventId>
+    <eventText>Would you give someone you meet in a chat room your phone number?</eventText>
+    <eventFeedback>Do you know what they can do with this information?</eventFeedback>
+    <choiceOne>No</choiceOne>
+    <choiceTwo>Yes</choiceTwo>
+    <choiceID>1</choiceID>
+  </row>
+  <row>
+    <eventId>15</eventId>
+    <eventText>Would you send a digital picture of yourself to someone you met in a chatroom</eventText>
+    <eventFeedback>Have you checked with your parents? </eventFeedback>
+    <choiceOne>No</choiceOne>
+    <choiceTwo>Yes</choiceTwo>
+    <choiceID>3</choiceID>
+  </row>
+  <row>
+    <eventId>16</eventId>
+    <eventText>You are on a  visiting a site from a company or organization that I've heard of. They want my name and phone number so I can enter a contest.  Is it OK to enter?</eventText>
+    <eventFeedback>Have you checked with your parents? The site might be a scam</eventFeedback>
+    <choiceOne>No</choiceOne>
+    <choiceTwo>Yes</choiceTwo>
+    <choiceID>3</choiceID>
+  </row>
+  <row>
+    <eventId>17</eventId>
+    <eventText>Hyperlink: BUY CHEAP COOL GAMES NOW!!!!!!!!! - Che4pGames.com</eventText>
+    <eventFeedback>Do you believe that this is a trustworth site?</eventFeedback>
+    <choiceOne>Delete</choiceOne>
+    <choiceTwo>Open</choiceTwo>
+    <choiceID>1</choiceID>
+  </row>
+  <row>
+    <eventId>18</eventId>
+    <eventText>'I HATE YOU' - Sandra</eventText>
+    <eventFeedback>Take action this is bullying, talk to people to find a solution and stop the mean messages.</eventFeedback>
+    <choiceOne>Show Parent</choiceOne>
+    <choiceTwo>Reply</choiceTwo>
+    <choiceID>1</choiceID>
+  </row>
+  <row>
+    <eventId>19</eventId>
+    <eventText>Email "Click this link for free money" - Paypal </eventText>
+    <eventFeedback>If an seems offer is too good to be true then sometime it is.</eventFeedback>
+    <choiceOne>Open, and enter bank details</choiceOne>
+    <choiceTwo>Ignore it, place it in the trash folder</choiceTwo>
+    <choiceID>6</choiceID>
+  </row>
+  <row>
+    <eventId>20</eventId>
+    <eventText>"I sent you a picture of my dog on outlook, check it out" - Bradley from Computing</eventText>
+    <eventFeedback>Opening emails from people you trust is fine. You should trust your class mates.</eventFeedback>
+    <choiceOne>Yes, open</choiceOne>
+    <choiceTwo>No</choiceTwo>
+    <choiceID>3</choiceID>
+  </row>
+</gameEvents>
