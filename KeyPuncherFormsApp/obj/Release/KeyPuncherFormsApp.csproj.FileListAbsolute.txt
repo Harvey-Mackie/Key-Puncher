@@ -1,0 +1,10 @@
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\KeyPuncherFormsApp\obj\Release\KeyPuncherFormsApp.csprojAssemblyReference.cache
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\KeyPuncherFormsApp\obj\Release\KeyPuncherFormsApp.exe.config
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\KeyPuncherFormsApp\obj\Release\KeyPuncherFormsApp.frmAdmin.resources
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\KeyPuncherFormsApp\obj\Release\KeyPuncherFormsApp.frmLogin.resources
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\KeyPuncherFormsApp\obj\Release\KeyPuncherFormsApp.frmMenu.resources
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\KeyPuncherFormsApp\obj\Release\KeyPuncherFormsApp.frmScores.resources
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\KeyPuncherFormsApp\obj\Release\KeyPuncherFormsApp.Properties.Resources.resources
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\KeyPuncherFormsApp\obj\Release\KeyPuncherFormsApp.frmGame.resources
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\KeyPuncherFormsApp\obj\Release\KeyPuncherFormsApp.csproj.GenerateResource.cache
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\KeyPuncherFormsApp\obj\Release\KeyPuncherFormsApp.csproj.CoreCompileInputs.cache
