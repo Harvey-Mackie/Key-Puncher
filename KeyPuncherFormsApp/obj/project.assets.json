@@ -456,11 +456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher\\KeyPuncherFormsApp\\KeyPuncherFormsApp.csproj",
+      "projectUniqueName": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher-Game\\KeyPuncherFormsApp\\KeyPuncherFormsApp.csproj",
       "projectName": "KeyPuncherFormsApp",
-      "projectPath": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher\\KeyPuncherFormsApp\\KeyPuncherFormsApp.csproj",
+      "projectPath": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher-Game\\KeyPuncherFormsApp\\KeyPuncherFormsApp.csproj",
       "packagesPath": "C:\\Users\\Harve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher\\KeyPuncherFormsApp\\obj\\",
+      "outputPath": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher-Game\\KeyPuncherFormsApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -477,8 +477,8 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher\\Game\\Game.csproj": {
-              "projectPath": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher\\Game\\Game.csproj"
+            "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher-Game\\Game\\Game.csproj": {
+              "projectPath": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher-Game\\Game\\Game.csproj"
             }
           }
         }

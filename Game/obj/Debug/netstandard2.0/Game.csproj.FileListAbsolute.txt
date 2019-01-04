@@ -10,3 +10,15 @@ C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\Game\obj\Debug\netstandard2
 C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\Game\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\Game\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\Game\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\bin\Debug\netstandard2.0\Game.deps.json
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\bin\Debug\netstandard2.0\Game.dll
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\bin\Debug\netstandard2.0\Game.pdb
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\obj\Debug\netstandard2.0\Game.csprojAssemblyReference.cache
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\obj\Debug\netstandard2.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\obj\Debug\netstandard2.0\Game.AssemblyInfoInputs.cache
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\obj\Debug\netstandard2.0\Game.AssemblyInfo.cs
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\obj\Debug\netstandard2.0\Game.dll
+C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher-Game\Game\obj\Debug\netstandard2.0\Game.pdb
