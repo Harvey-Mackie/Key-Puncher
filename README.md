@@ -19,6 +19,9 @@ Game developed using C# Windows Forms
 - This ReadMe file is created for the **master** branch
 - However, also applys for the **'Offline'** branch. I created the 'Offline' branch to allow for some of the game to be played without having to set up the database, to allow users to test the game. The 'Admin Form' cannot be accessed while in offline mode due to the page requiring a database connection. 
 
+- **Offline Version**
+- ![offline](https://user-images.githubusercontent.com/38426388/50686684-3e2d6c80-1016-11e9-85c6-d03e592bdc9f.PNG)
+
 ## Requirements
 - Download Tables (Can be found in the Tables.sql file)
 - Change the connection variable called 'connstring' in the Choice class (Located within the 'Game' project inside the solution) to link to the database where the tables are stored.
