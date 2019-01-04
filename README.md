@@ -104,7 +104,7 @@ Each question has an allocated difficulty and the Reputation/Virus effect values
 
  Each Question has a Choice Id attached to determine the correct choice and the difficulty of the question – odd numbers ensure that choice one is the correct answer and even numbers ensure that choice two is correct. 
 
- To add a question, populate the form on the left-hand side and click the ‘Add’ button once the form is complete. The Question ID must be unique and cannot match an existing question Id in the table on the right.  
+ To **add** a question, populate the form on the left-hand side and click the ‘Add’ button once the form is complete. The Question ID must be unique and cannot match an existing question Id in the table on the right.  
 
  To **delete** a question, insert an existing Question ID and click the ‘Delete’ button. 
 
