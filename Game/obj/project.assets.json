@@ -988,11 +988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher-Game\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher\\Game\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher-Game\\Game\\Game.csproj",
+      "projectPath": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher\\Game\\Game.csproj",
       "packagesPath": "C:\\Users\\Harve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher-Game\\Game\\obj\\",
+      "outputPath": "C:\\Users\\Harve\\OneDrive\\Documents\\GitHub\\Key-Puncher\\Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
