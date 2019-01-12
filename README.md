@@ -110,7 +110,7 @@ Each question has an allocated difficulty and the Reputation/Virus effect values
 
  To **delete** a question, insert an existing Question ID and click the ‘Delete’ button. 
  
- [![Image from Gyazo](https://i.gyazo.com/808a30c7547e22d6f583b47dad426d02.gif)](https://gyazo.com/808a30c7547e22d6f583b47dad426d02)
+ [![Image from Gyazo](https://i.gyazo.com/d48fc3f0c129e1f4ba9c8d2d2989138d.gif)](https://gyazo.com/d48fc3f0c129e1f4ba9c8d2d2989138d)
 
  ---
 
