@@ -109,6 +109,8 @@ Each question has an allocated difficulty and the Reputation/Virus effect values
  To **add** a question, populate the form on the left-hand side and click the ‘Add’ button once the form is complete. The Question ID must be unique and cannot match an existing question Id in the table on the right.  
 
  To **delete** a question, insert an existing Question ID and click the ‘Delete’ button. 
+ 
+ [![Image from Gyazo](https://i.gyazo.com/808a30c7547e22d6f583b47dad426d02.gif)](https://gyazo.com/808a30c7547e22d6f583b47dad426d02)
 
  ---
 
