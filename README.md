@@ -33,9 +33,9 @@ Game developed using C# Windows Forms
 ---
 # User Guide
 
-The ‘<-' button that appears at the top left of certain forms closes the current form and opens the previous form.
+The **‘<-' button** that appears at the top left of certain forms closes the current form and opens the previous form.
 
----
+
 
 ## Login Form
 
