@@ -70,7 +70,7 @@ If the account exists then the account will be validated, resulting in the form 
 
  Score determines the position – the lowest score is the best score. 
 
-![scores](https://user-images.githubusercontent.com/38426388/50686758-8e0c3380-1016-11e9-8c43-59abda20ba56.PNG)
+[![Image from Gyazo](https://i.gyazo.com/dcbda4151561691d849cfee7823f7fb9.png)](https://gyazo.com/dcbda4151561691d849cfee7823f7fb9)
 ---
 ## Game Form
  The form contains three attributes - Reputation, Turn and Virus, they are set to 50, 0, and 50 at the start of every game - each choice selected modifies the attributes values. 
