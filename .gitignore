@@ -2,3 +2,8 @@
 *.dll
 *.xml
 
+packages/
+
+Tables/
+
+TurnCountTest/
