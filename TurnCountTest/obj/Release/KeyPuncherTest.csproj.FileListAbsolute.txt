@@ -1,2 +1,0 @@
-C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\TurnCountTest\obj\Release\KeyPuncherTest.csprojAssemblyReference.cache
-C:\Users\Harve\OneDrive\Documents\GitHub\Key-Puncher\TurnCountTest\obj\Release\KeyPuncherTest.csproj.CoreCompileInputs.cache
